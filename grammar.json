@@ -1,0 +1,12 @@
+{
+  "name": "Test",
+  "scopeName": "source.test",
+  "fileTypes": ["test"],
+  "uuid": "5512c10d-4cc5-434c-b8fc-53b912f55ab3",
+  "patterns": [
+    {
+      "name": "test.test.test",
+      "match": "/"
+    }
+  ]
+}
